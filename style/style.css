@@ -117,7 +117,7 @@ ol li
   height: 186px;}
   
 #banner
-{ 
+{  background: transparent url(bann.jpg) no-repeat;
   width: 860px;
   height: 180px;
   margin-bottom: 20px;
